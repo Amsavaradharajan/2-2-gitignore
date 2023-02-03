@@ -1,0 +1,5 @@
+.exe
+*.o
+*.jar
+.lib
+file1.o
